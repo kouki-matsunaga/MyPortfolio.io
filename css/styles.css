@@ -9711,6 +9711,10 @@ button.bg-dark:focus {
 .text-center {
   text-align: center !important;
 }
+.text-center-center{
+  margin-top: 24px;
+  color: rgba(0, 0, 0, .4);
+}
 
 @media (min-width: 576px) {
   .text-sm-left {
